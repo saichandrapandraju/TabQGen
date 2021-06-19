@@ -1,5 +1,7 @@
-TabQGen train dataset -> https://storage.googleapis.com/tabqgen/TabQGen_train.jsonl
+# Generated Datasets:
 
-TabQGen test dataset -> https://storage.googleapis.com/tabqgen/TabQGen_test.jsonl
+TabQGen raw train dataset -> https://storage.googleapis.com/tabqgen/TabQGen_train.jsonl
 
-Processed datasets using Google's language repo -> https://storage.googleapis.com/tabqgen/tabqgen_processed_csv.zip
+TabQGen raw test dataset -> https://storage.googleapis.com/tabqgen/TabQGen_test.jsonl
+
+Processed datasets using [Google Research's language repo](https://github.com/google-research/language) -> https://storage.googleapis.com/tabqgen/tabqgen_processed_csv.zip
