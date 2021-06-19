@@ -7,6 +7,8 @@ In this project, we converted [ToTTo](https://github.com/google-research-dataset
 
 For detailed approach of our end-to-end pipeline and our findings, kindly refer our paper.
 
+**TabQGen** datasets can be found [here](https://github.com/saichandrapandraju/TabQGen/blob/main/datasets/README.md)
+
 # Reproducing our work:
 
 We implemented our entire pipeline with interactive Jupyter notebooks and to reproduce our work, here are the sequential notebooks to run:
