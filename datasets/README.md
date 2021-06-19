@@ -1,5 +1,3 @@
-# Datasets used/generated.
-
 TabQGen train dataset -> https://storage.googleapis.com/tabqgen/TabQGen_train.jsonl
 
 TabQGen test dataset -> https://storage.googleapis.com/tabqgen/TabQGen_test.jsonl
