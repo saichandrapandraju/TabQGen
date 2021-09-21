@@ -5,7 +5,7 @@ In this project, we converted [ToTTo](https://github.com/google-research-dataset
   1. Creating a Multi-Type Question Generator from Text using [SQUAD](https://rajpurkar.github.io/SQuAD-explorer/) and [BoolQ](https://github.com/google-research-datasets/boolean-questions) datasets.
   2. Applying Multi-Type Question Generator to [ToTTo](https://github.com/google-research-datasets/ToTTo) descriptions and generate questions for each of them. The resulting augmented ToTTo dataset is named as **TabQGen**.
 
-For detailed approach of our end-to-end pipeline and our findings, kindly refer our paper.
+For detailed approach of our end-to-end pipeline and our findings, kindly refer our [paper](https://doi.org/10.3991/ijet.v16i18.25121).
 
 **TabQGen** datasets can be found [here](https://github.com/saichandrapandraju/TabQGen/blob/main/datasets/README.md)
 
@@ -29,7 +29,7 @@ t5_base -> https://huggingface.co/saichandrapandraju/t5_base_tabqgen
 t5_large -> https://huggingface.co/saichandrapandraju/t5_large_tabqgen
 
 # How to Cite
-If you extend or use this work, please cite the [paper][paper] where it was introduced:
+If you extend or use this work, please cite the [paper](https://doi.org/10.3991/ijet.v16i18.25121) :
 
 ```bibtex
 @article{
