@@ -1,4 +1,4 @@
-This repository hosts the code for the paper "Answer-Aware Question Generation from Tabular and Textual Data using T5".
+This repository hosts the code for the paper "[Answer-Aware Question Generation from Tabular and Textual Data using T5](https://doi.org/10.3991/ijet.v16i18.25121)".
 
 In this project, we converted [ToTTo](https://github.com/google-research-datasets/ToTTo) to **TabQGen**(Question Generation Dataset for Tables). This is done mainly in 2 steps - 
 
