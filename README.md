@@ -27,3 +27,19 @@ t5_small -> https://huggingface.co/saichandrapandraju/t5_small_tabqgen
 t5_base -> https://huggingface.co/saichandrapandraju/t5_base_tabqgen
 
 t5_large -> https://huggingface.co/saichandrapandraju/t5_large_tabqgen
+
+# How to Cite
+If you extend or use this work, please cite the [paper][paper] where it was introduced:
+
+```bibtex
+@article{
+  author  = {Saichandra Pandraju, Sakthi Ganesh Mahalingam},
+  title   = {Answer-Aware Question Generation from Tabular and Textual Data using T5},
+  journal = {International Journal of Emerging Technologies in Learning},
+  year    = {2021},
+  volume  = {16},
+  number  = {18},
+  pages   = {256-267},
+  url     = {http://online-engineering.org/dl/iJET/iJET_vol16_no18_2021_J.pdf}
+}
+```
