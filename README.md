@@ -32,14 +32,17 @@ t5_large -> https://huggingface.co/saichandrapandraju/t5_large_tabqgen
 If you extend or use this work, please cite the [paper](https://doi.org/10.3991/ijet.v16i18.25121) :
 
 ```bibtex
-@article{
-  author  = {Saichandra Pandraju, Sakthi Ganesh Mahalingam},
-  title   = {Answer-Aware Question Generation from Tabular and Textual Data using T5},
-  journal = {International Journal of Emerging Technologies in Learning},
-  year    = {2021},
-  volume  = {16},
-  number  = {18},
-  pages   = {256-267},
-  url     = {http://online-engineering.org/dl/iJET/iJET_vol16_no18_2021_J.pdf}
+@article{iJET25121,
+	author = {Saichandra Pandraju and Sakthi Ganesh Mahalingam},
+	title = {Answer-Aware Question Generation from Tabular and Textual Data using T5},
+	journal = {International Journal of Emerging Technologies in Learning (iJET)},
+	volume = {16},
+	number = {18},
+	year = {2021},
+	keywords = {Question Generation, T5, Table-to-Text, Transfer Learning},
+	abstract = {Automatic Question Generation (AQG) systems are applied in a myriad of domains to generate questions from sources such as documents, images, knowledge graphs to name a few. With the rising interest in such AQG systems, it is equally important to recognize structured data like tables while generating questions from documents. In this paper, we propose a single model architecture for question generation from tables along with text using “Text-to-Text Transfer Transformer” (T5) - a fully end-to-end model which does not rely on any intermediate planning steps, delexicalization, or copy mechanisms. We also present our systematic approach in modifying the ToTTo dataset, release the augmented dataset as TabQGen along with the scores achieved using T5 as a baseline to aid further research.},
+	issn = {1863-0383},
+	url = {https://online-journals.org/index.php/i-jet/article/view/25121},
+	pages = {256--267}
 }
 ```
