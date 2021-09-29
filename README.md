@@ -20,7 +20,7 @@ We implemented our entire pipeline with interactive Jupyter notebooks and to rep
       * t5_[small | base | large]_test.ipynb -> tests the model from previous step and saves predictions in 'test_preds.txt' file.
       * t5_[small | base | large]_scoring.ipynb -> takes the predicted results from previous step and calculates different scores as mentioned in the paper.
 
-**Models trained on TabQGen were uploaded to [HuggingFace models](https://huggingface.co/models) and can be found in below links:** 
+**Models trained on TabQGen were uploaded to [HuggingFace models](https://huggingface.co/models) and can be accessed using below links:** 
 
 tabqgen_small -> https://huggingface.co/saichandrapandraju/t5_small_tabqgen
 
